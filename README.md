@@ -1,0 +1,2 @@
+# Spicovita
+Spicovita initial repo
