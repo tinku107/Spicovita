@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{20C4E0C9-A610-4D75-B76C-BF642BD4536D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpicoVita.Api", "src\SpicoVita.Api\SpicoVita.Api.csproj", "{F76CDDD4-E674-44DC-A2BE-07F1B2B79205}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpicoVita.Application", "src\SpicoVita.Application\SpicoVita.Application.csproj", "{73C2073B-BBFC-4CFB-8C09-7853E4FBBA12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpicoVita.Domain", "src\SpicoVita.Domain\SpicoVita.Domain.csproj", "{BE023995-83F4-44A7-A46A-493E928F22F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpicoVita.Infrastructure", "src\SpicoVita.Infrastructure\SpicoVita.Infrastructure.csproj", "{00375D23-7BC3-4AB8-92DA-C7C0E16AFA2C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{3AAA731C-5700-4E5D-972E-53C4BC39C3A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpicoVita.UnitTests", "tests\SpicoVita.UnitTests\SpicoVita.UnitTests.csproj", "{B8558F19-4F3E-4D95-BA41-29838B44BBD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F76CDDD4-E674-44DC-A2BE-07F1B2B79205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F76CDDD4-E674-44DC-A2BE-07F1B2B79205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F76CDDD4-E674-44DC-A2BE-07F1B2B79205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F76CDDD4-E674-44DC-A2BE-07F1B2B79205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73C2073B-BBFC-4CFB-8C09-7853E4FBBA12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73C2073B-BBFC-4CFB-8C09-7853E4FBBA12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73C2073B-BBFC-4CFB-8C09-7853E4FBBA12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73C2073B-BBFC-4CFB-8C09-7853E4FBBA12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE023995-83F4-44A7-A46A-493E928F22F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE023995-83F4-44A7-A46A-493E928F22F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE023995-83F4-44A7-A46A-493E928F22F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE023995-83F4-44A7-A46A-493E928F22F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00375D23-7BC3-4AB8-92DA-C7C0E16AFA2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00375D23-7BC3-4AB8-92DA-C7C0E16AFA2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00375D23-7BC3-4AB8-92DA-C7C0E16AFA2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00375D23-7BC3-4AB8-92DA-C7C0E16AFA2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8558F19-4F3E-4D95-BA41-29838B44BBD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8558F19-4F3E-4D95-BA41-29838B44BBD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8558F19-4F3E-4D95-BA41-29838B44BBD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8558F19-4F3E-4D95-BA41-29838B44BBD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F76CDDD4-E674-44DC-A2BE-07F1B2B79205} = {20C4E0C9-A610-4D75-B76C-BF642BD4536D}
+		{73C2073B-BBFC-4CFB-8C09-7853E4FBBA12} = {20C4E0C9-A610-4D75-B76C-BF642BD4536D}
+		{BE023995-83F4-44A7-A46A-493E928F22F1} = {20C4E0C9-A610-4D75-B76C-BF642BD4536D}
+		{00375D23-7BC3-4AB8-92DA-C7C0E16AFA2C} = {20C4E0C9-A610-4D75-B76C-BF642BD4536D}
+		{B8558F19-4F3E-4D95-BA41-29838B44BBD5} = {3AAA731C-5700-4E5D-972E-53C4BC39C3A9}
+	EndGlobalSection
+EndGlobal
