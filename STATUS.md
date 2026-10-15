@@ -84,7 +84,7 @@ _Last updated: 15 Oct 2026 (IST). Legend: ✅ Completed · 🟡 In progress · �
 | GST registration | ✅ Completed | Issued 14 Oct 2026; Regular vs Composition to confirm (Regular needed for Blinkit) |
 | Virtual office | ✅ Done | 1 year |
 | Udyam registration | ✅ Completed | UDYAM-KR-03-0774393, registered 15 Oct 2026 |
-| Business current account | ⬜ Pending | ICICI online attempt failed (GST-linked PAN – likely GST sync delay); retry 15 Oct |
+| Business current account | ⬜ Pending | ICICI failed earlier; Udyam now live so Axis Liberty Digital (GSTIN+Udyam+video KYC) is the strongest next try |
 | Trademark | ⬜ Pending | "SPICO" conflicts with existing class-30 mark; need 2–3 fallback names |
 | Barcode (GS1) | ⏸ Deferred | GS1 too costly now; cheaper alternatives under review |
 | Trade licence (BBMP) | ⬜ Pending | |
