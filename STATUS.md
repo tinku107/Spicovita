@@ -1,6 +1,6 @@
 # SPICO Vita – Project Status
 
-_Last updated: 14 Oct 2026 (IST). Legend: ✅ Completed · 🟡 In progress · ⬜ Pending · ⏸ Deferred_
+_Last updated: 15 Oct 2026 (IST). Legend: ✅ Completed · 🟡 In progress · ⬜ Pending · ⏸ Deferred_
 
 ## 1. Summary
 | Area | Status |
@@ -81,9 +81,9 @@ _Last updated: 14 Oct 2026 (IST). Legend: ✅ Completed · 🟡 In progress · �
 |---|---|---|
 | FSSAI registration | ✅ Done | Basic (Tatkal) 21226194003349, issued 12-10-2026, **Retailer only** |
 | FSSAI Marketer / repacker category | ⬜ Pending | Call FoSCoS helpline 1800112100 |
-| GST registration | ✅ Done | Issued 14 Oct 2026; Regular vs Composition to confirm (Regular needed for Blinkit) |
+| GST registration | ✅ Completed | Issued 14 Oct 2026; Regular vs Composition to confirm (Regular needed for Blinkit) |
 | Virtual office | ✅ Done | 1 year |
-| Udyam registration | ⬜ Pending | Free at udyamregistration.gov.in |
+| Udyam registration | ✅ Completed | UDYAM-KR-03-0774393, registered 15 Oct 2026 |
 | Business current account | ⬜ Pending | ICICI online attempt failed (GST-linked PAN – likely GST sync delay); retry 15 Oct |
 | Trademark | ⬜ Pending | "SPICO" conflicts with existing class-30 mark; need 2–3 fallback names |
 | Barcode (GS1) | ⏸ Deferred | GS1 too costly now; cheaper alternatives under review |
